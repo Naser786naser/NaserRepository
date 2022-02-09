@@ -1,0 +1,8 @@
+14:36:21.037 [main] INFO  alphaPackage.Demo2 - There is no error
+14:36:21.051 [main] FATAL alphaPackage.Demo2 - Object is not found
+14:36:21.052 [main] ERROR alphaPackage.Demo2 - Test didn't pass
+14:36:21.052 [main] DEBUG alphaPackage.Demo2 - This is debug message
+14:44:10.547 [main] INFO  alphaPackage.Demo2 - There is no error
+14:44:10.559 [main] FATAL alphaPackage.Demo2 - Object is not found
+14:44:10.559 [main] ERROR alphaPackage.Demo2 - Test didn't pass
+14:44:10.560 [main] DEBUG alphaPackage.Demo2 - This is debug message
